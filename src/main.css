@@ -1,0 +1,11 @@
+body {
+    background-color: #0f0f0f;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    text-align: center;
+    padding: 0 15px;
+}
